@@ -1,0 +1,89 @@
+.binding{
+    height: 245px;
+    margin: 20px auto;
+}
+.modify{
+    width: 700px;
+    height: 70px;
+    margin: 20px auto;
+    border-bottom: 1px dashed rgb(148, 147, 147);
+}
+.passwork{
+    margin-left: 40px;
+    width: 600px;
+    height: 40px;
+    line-height: 40px;
+    border-left:3px solid #19BEBE; 
+}
+.modify p{ 
+    margin-left: 20px;
+    font-size: 18px;
+}
+.phone{
+    width: 600px;
+    height: 70px;
+    margin: 20px auto;
+    box-sizing: border-box;
+    border: 1px solid rgb(148, 147, 147);
+    position: relative;
+}
+.phone img{
+    position: absolute;
+    left:10px;
+    top: 10px;
+}
+.phone-one{
+    position: absolute;
+    left: 100px;
+    top: -5px;
+}
+.phone-two{
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+.phone button{
+    width: 90px;
+    height: 40px;
+    background-color: #FEA700;
+    position: absolute;
+    left: 480px;
+    top: 15px;
+    color: #FFFFFF;
+    border: none;
+    box-sizing: border-box;
+}
+.wechat{
+    width: 600px;
+    height: 70px;
+    margin: 20px auto;
+    box-sizing: border-box;
+    border: 1px solid rgb(148, 147, 147);
+    position: relative;
+}
+.wechat img{
+    position: absolute;
+    left:20px;
+    top: 20px;
+}
+.wechat-one{
+    position: absolute;
+    left: 100px;
+    top: -5px;
+}
+.wechat-two{
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+.wechat button{
+    width: 90px;
+    height: 40px;
+    background-color: #FEA700;
+    position: absolute;
+    left: 480px;
+    top: 15px;
+    border: none;
+    color: #FFFFFF;
+    box-sizing: border-box;
+}
